@@ -1,9 +1,5 @@
 # agridata.ch
 
-> ℹ️ **Info:**  
-> agridata.ch is **not yet published**, but will be made available soon.  
-> Please check back later for updates.
-
 agridata.ch is the foundation for the Swiss agricultural and food sector’s data space.  
 It provides a secure, efficient, and trustworthy data transfer service that enables interoperability and supports the once-only principle.
 
